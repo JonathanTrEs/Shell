@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC   -shared -Wl,-soname,libcli.so -o ../../lib/libcli.so  -Wl,--whole-archive ../../lib/libcli.a -Wl,--no-whole-archive -ldl /opt/boost1.44-1.44.0/stage/lib/libboost_system-mt.so /opt/boost1.44-1.44.0/stage/lib/libboost_thread-mt.so -Wl,-rpath,/opt/boost1.44-1.44.0/stage/lib 

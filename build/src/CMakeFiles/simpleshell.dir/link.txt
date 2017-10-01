@@ -1,0 +1,1 @@
+/usr/bin/c++      CMakeFiles/simpleshell.dir/main.cpp.o  -o ../bin/simpleshell -rdynamic ../lib/libcli.a -ldl /opt/boost1.44-1.44.0/stage/lib/libboost_system-mt.so /opt/boost1.44-1.44.0/stage/lib/libboost_thread-mt.so -Wl,-rpath,/opt/boost1.44-1.44.0/stage/lib 

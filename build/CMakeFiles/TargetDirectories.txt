@@ -1,0 +1,4 @@
+/home/alu4312/Escritorio/SO/aplatanado-simpleshell-642bf21/build/src/cli/CMakeFiles/cli.dir
+/home/alu4312/Escritorio/SO/aplatanado-simpleshell-642bf21/build/src/cli/CMakeFiles/cli-shared.dir
+/home/alu4312/Escritorio/SO/aplatanado-simpleshell-642bf21/build/doc/CMakeFiles/doc.dir
+/home/alu4312/Escritorio/SO/aplatanado-simpleshell-642bf21/build/src/CMakeFiles/simpleshell.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libcli.a  CMakeFiles/cli.dir/auxiliary.cpp.o CMakeFiles/cli.dir/dl.cpp.o CMakeFiles/cli.dir/fileno.cpp.o CMakeFiles/cli.dir/glob.cpp.o CMakeFiles/cli.dir/internals.cpp.o CMakeFiles/cli.dir/readline.cpp.o CMakeFiles/cli.dir/shell_parser.cpp.o CMakeFiles/cli.dir/simple_parser.cpp.o
+/usr/bin/ranlib ../../lib/libcli.a
